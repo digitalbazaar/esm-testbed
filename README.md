@@ -27,6 +27,7 @@ TBD
 ## Install
 
 - Node.js 12+ is required.
+- TypeScript is required. (`npm install -g typescript`)
 
 ### NPM
 

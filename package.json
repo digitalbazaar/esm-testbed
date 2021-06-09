@@ -44,7 +44,9 @@
       "import": "./dist/esm/index.js"
     }
   },
-  "dependencies": {},
+  "dependencies": {
+    "base58-universal": "^1.0.0"
+  },
   "devDependencies": {
     "@types/chai": "^4.2.17",
     "@types/mocha": "^8.2.2",
